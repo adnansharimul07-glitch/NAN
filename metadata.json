@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator BMI Assembly",
+  "description": "Aplikasi penghitung BMI (Body Mass Index) responsif dengan antarmuka modern, ditenagai oleh mesin eksekusi emulator Assembly 16-bit 8086 secara real-time di sisi server dan visualizer interaktif di frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
